@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My QR Code</string>
+    <string name="scanner_error_message">Fail to scan this QR code</string>
+    <string name="scanner_error_link">Fail to open link</string>
+    <string name="history">History</string>
+    <string name="link">Link</string>
+</resources>
